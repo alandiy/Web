@@ -516,9 +516,9 @@ div.setAttribute('bbb', 'qianguyihao');
 
 - **nodeType == 1  表示的是元素节点**（标签） 。记住：在这里，元素就是标签。
 
-- nodeType == 2  表示是属性节点。
+- nodeName == 2  表示是属性节点。
 
-- nodeType == 3  是文本节点。
+- nodeValue == 3  是文本节点。
 
 ### nodeType、nodeName、nodeValue
 
